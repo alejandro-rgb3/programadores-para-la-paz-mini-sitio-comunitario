@@ -1,8 +1,8 @@
 Registro de uso verificable de IA – Clase 24
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: alejandro bernal 
+Fecha: 19/05/2026
+Nombre de la rama: alejandro_bernal 
 
 Importante:
 La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
@@ -22,28 +22,28 @@ Respuesta:
 
 2. Escribe la pregunta que hiciste a la IA:
 
-Respuesta:
+Respuesta: como hacer un git pull y traer los cambios de ptro repositorio 
 
 3. Resume la respuesta recibida:
 
-Respuesta:
+Respuesta: me dio el comando git pull upstream main 
 
 4. ¿Qué parte de la respuesta aplicaste?
 
-Respuesta:
+Respuesta: git pull upstream main 
 
 5. ¿Qué parte decidiste no aplicar?
 
-Respuesta:
+Respuesta: comandos que ya sabia 
 
 6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
 
-Respuesta:
+Respuesta: cuando me trajo los cabios a mi rama 
 
 7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
 
-Respuesta:
+Respuesta: no 
 
 8. ¿Qué aprendiste sobre uso responsable de IA?
 
-Respuesta:
+Respuesta: que me puede ayudar en momentos de que nesito una solucion 
